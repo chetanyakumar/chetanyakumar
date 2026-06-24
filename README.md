@@ -1,98 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:6366f1,100:818cf8&height=220&section=header&text=Chetanya%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Frontend%20Developer%20%7C%20Full-Stack%20Learner%20%7C%20GenAI%20Enthusiast&descAlignY=56&descSize=16&descColor=c7d2fe" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:7c3aed,70:6366f1,100:3b82f6&height=230&section=header&text=Chetanya%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20GenAI%20Enthusiast&descAlignY=54&descSize=17&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&multiline=false&width=600&height=35&lines=Building+AI-powered+web+apps+with+React+%26+FastAPI;Exploring+LLM+APIs%2C+RAG+%26+AI+Agents;Open+to+SWE+Internship+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Building+AI-powered+web+apps+with+React+%26+FastAPI;Exploring+LLMs%2C+RAG+Pipelines+%26+AI+Agents;Shipping+production-ready+software;Open+to+Software+Engineering+Internships)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ckcodes.netlify.app-818cf8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ckcodes.netlify.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetanya_Kumar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanya-kumar)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Chetanyakumar753-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Chetanyakumar753@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-chetanyakumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetanyakumar)
+<sub>Crafting intelligent web experiences at the intersection of frontend engineering and generative AI.</sub>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ckcodes.netlify.app-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://ckcodes.netlify.app)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chetanya_Kumar-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/chetanya-kumar)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Chetanyakumar753-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:Chetanyakumar753@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-chetanyakumar-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/chetanyakumar)
 
 </div>
 
 <br/>
 
-## About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT.ME CODE CARD -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-I'm a developer based in **Mathura, India** focused on building clean, performant web applications and exploring the GenAI ecosystem. I work primarily with **React.js** on the frontend and am expanding into full-stack development with **FastAPI** and **LLM integrations**.
+<div align="center">
+<table>
+<tr>
+<td>
 
-I care about writing maintainable code, shipping real products, and staying close to the cutting edge of AI-assisted development.
+```js
+// about.me
+const chetanya = {
+    role:     "Frontend Developer | Full-Stack Learner",
+    focus:    ["React.js", "FastAPI", "GenAI Applications"],
+    learning: ["LLM APIs", "RAG", "Prompt Engineering", "AI Agents"],
+    goal:     "Build production-ready AI-powered web apps",
+    location: "Mathura, India",
+};
+```
 
-<br/>
-
-## Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=3776ab)
-![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=1572b6)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=61dafb)
-![Vite](https://img.shields.io/badge/Vite-0f0f0f?style=for-the-badge&logo=vite&logoColor=646cff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f0f0f?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f0f0f?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0f0f0f?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0f0f?style=for-the-badge&logo=fastapi&logoColor=009688)
-![MySQL](https://img.shields.io/badge/MySQL-0f0f0f?style=for-the-badge&logo=mysql&logoColor=4479a1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f0f0f?style=for-the-badge&logo=mongodb&logoColor=47a248)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0f0f0f?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-![Vercel](https://img.shields.io/badge/Vercel-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0f0f0f?style=for-the-badge&logo=netlify&logoColor=00c7b7)
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
-## Currently Learning
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-818cf8?style=flat-square&logo=probot&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0f0f0f?style=flat-square&logo=langchain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-1a1a2e?style=flat-square&logo=robot-framework&logoColor=white)
+<h2>About Me</h2>
+
+Frontend developer with a strong bias toward shipping. I build clean, performant UIs with **React** and I'm expanding into full-stack development with **FastAPI** and **LLM integrations**. My work sits at the intersection of modern web engineering and generative AI — I care about writing code that scales, looks great, and solves real problems.
 
 <br/>
 
-## GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>Tech Stack</h2>
+
+<table>
+<tr>
+<td align="center" width="140"><b>Frontend</b></td>
+<td>
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-20232a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-20232a?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=for-the-badge&logo=mongodb&logoColor=47a248)
+![MySQL](https://img.shields.io/badge/MySQL-20232a?style=for-the-badge&logo=mysql&logoColor=4479a1)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-20232a?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY LEARNING -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>Currently Learning</h2>
+
+<table>
+<tr>
+<td><b>FastAPI</b></td>
+<td><img src="https://geps.dev/progress/75?successColor=7c3aed" width="220"/></td>
+<td><sub>Async APIs & ML backends</sub></td>
+</tr>
+<tr>
+<td><b>LLM APIs</b></td>
+<td><img src="https://geps.dev/progress/65?successColor=6366f1" width="220"/></td>
+<td><sub>OpenAI, Gemini, Claude</sub></td>
+</tr>
+<tr>
+<td><b>Prompt Engineering</b></td>
+<td><img src="https://geps.dev/progress/60?successColor=818cf8" width="220"/></td>
+<td><sub>System prompts & few-shot</sub></td>
+</tr>
+<tr>
+<td><b>RAG</b></td>
+<td><img src="https://geps.dev/progress/45?successColor=a78bfa" width="220"/></td>
+<td><sub>Embeddings & vector search</sub></td>
+</tr>
+<tr>
+<td><b>AI Agents</b></td>
+<td><img src="https://geps.dev/progress/35?successColor=c4b5fd" width="220"/></td>
+<td><sub>Tool use & orchestration</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I'M BUILDING -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>What I'm Building</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chetanyakumar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanyakumar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" height="170"/>
+`AI-Powered Web Applications` · `Full-Stack Projects with React & FastAPI` · `GenAI Integrations via LLM APIs` · `Production-Ready Software`
 
 </div>
 
 <br/>
 
-## Goals
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-- Build and ship production-ready **AI-powered web applications**
-- Deepen full-stack skills across **React, FastAPI, and LLM orchestration**
-- Secure a **software engineering internship** at a product-driven company
-
-<br/>
+<h2>Contributions</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:6366f1,100:818cf8&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetanyakumar/chetanyakumar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetanyakumar/chetanyakumar/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/chetanyakumar/chetanyakumar/output/github-snake.svg" width="100%"/>
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chetanyakumar&color=818cf8&style=flat-square&label=Profile+Views)
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanyakumar&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+Code. Learn. Build. Repeat.
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:7c3aed,70:6366f1,100:3b82f6&height=120&section=footer" width="100%"/>
 
 </div>
